@@ -57,14 +57,14 @@ _* (installation has been tested on Python 3.7 and up on Windows, Linux, and Mac
 To run this project, install it locally on your machine. Use:
 * Using GitHub CLI:
 ```sh 
-gh repo clone mhalbert/BetterSolarUI (TODO UPDATE)
+gh repo clone bettersolar/BetterSolarUI
 ```
 * Using git in terminal/command line:
 ```sh
-git clone https://github.com/mhalbert/BetterSolarUI.git
+git clone https://github.com/bettersolar/BetterSolarUI.git
 ```
 * Using python IDE w/ integrated source control/git support:
-  * Find git clone support, paste ``` https://github.com/mhalbert/BetterSolarUI.git ```
+  * Find git clone support, paste ``` https://github.com/bettersolar/BetterSolarUI.git ```
  
 Requires python environment to run. Example environment setup instructions: https://docs.anaconda.com/anaconda/install/index.html
 
